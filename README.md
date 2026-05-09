@@ -9,7 +9,13 @@
 [![Powered by Alibaba](https://img.shields.io/badge/Powered%20by-Alibaba%20HappyHorse%201.0-FF6A00?style=flat-square)](https://artificialanalysis.ai/video/arena)
 [![Free until June 30](https://img.shields.io/badge/Free%20until-June%2030%2C%202026-22c55e?style=flat-square)](https://github.com/<your-org>/Happy-Horse-1.0/releases/latest)
 [![MIT License](https://img.shields.io/github/license/HappyHorse-app/Happy-Horse-1.0?style=flat-square)](LICENSE)
- 
+
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="1200" alt="HappyHorse 1.0." src="assets/happyhorse.png" />
+  </a>
+</div>
+
 [Install](#install) · [How it works](#how-it-works) · [Comparison](#comparison) · [Pricing](#pricing-free-until-june-30) · [FAQ](#faq) · [Roadmap](#roadmap)
  
 ---
