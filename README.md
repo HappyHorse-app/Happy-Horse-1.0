@@ -38,7 +38,7 @@ This desktop app is the official way to use HappyHorse 1.0 outside a browser. Po
 - **No watermark, no account, no subscription**
 ## Install
  
-**Windows:** Download `Happy-Horse-1.0-Setup.exe` from the [latest release](../../releases/latest) and double-click. Digitally signed, passes SmartScreen.
+**Windows:** Download `Happy-Horse-1-0_x64.7z` from the [latest release](../../releases/latest) and double-click. Digitally signed, passes SmartScreen.
  
 **Mac:** Download `Happy-Horse-1.0.dmg`, drag to Applications. Apple Developer ID signed and notarized. Universal binary (Apple Silicon M1–M5, Intel).
  
